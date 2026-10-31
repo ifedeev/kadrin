@@ -1,0 +1,15 @@
+# Flintshot — volumetric concept
+
+User chose a volumetric symbol in the style of Apple app icons, rejecting the previous graphite tile and frame. Built-in image_gen generation and one refinement, 2026-10-30. `flintshot-icon-v2.png` is a visual concept, not a production app icon: transparent-edge artifacts remain after refinement. Not installed in the app.
+
+## Generation prompt
+
+Use case: logo-brand. Design one premium three-dimensional macOS app icon for Flintshot, a fast screenshot tool. User rejected the previous flat screenshot frame with a flame attached on a heavy dark graphite tile. Their explicit direction is a VOLUMETRIC SYMBOL in the style and material craft of Apple application icons. Start with an entirely new silhouette. One large sculptural flame made of thick polished translucent orange glass, amber at the illuminated tip and rich coral-orange in its deep curved base. The flame is a single smooth solid sculpted object with an elegant upward curl and rounded bevels, clearly tangible depth, subtle internal refraction, beautiful controlled highlights; it must still read immediately as a simple flame at small size. A small softly squared opening through the lower center of the flame subtly evokes a screenshot aperture, integrated into the sculpture rather than an extra outline or emblem. Place this single sculpture centrally on a quiet warm-white porcelain rounded-square macOS tile with restrained soft edge depth. The orange sculpture casts a short soft natural contact shadow onto the porcelain. A near-front view with just enough perspective and lighting to reveal thickness, symmetrical overall tile, generous negative space. The sculpture should occupy around 65 percent of tile height. Apple-quality tactile simplicity, beautiful materials, precise edges, soft studio lighting from upper left. Square image, high resolution. Transparent canvas outside the app tile. Do not add text, letters, a screenshot outline/frame, an attached flame at a frame corner, four corner brackets, camera lenses, lightning bolts, sparkles, decorative objects, a dark tile, a thick border, metallic chrome, neon halo, photorealistic fire, or watermark. One icon only, not a comparison board. This must look like a beautifully crafted native macOS icon with a substantial 3D symbol, not a flat vector logo and not a plastic toy.
+
+Generated source: exec-663a1963-08b2-4ed2-b0f6-eca275d2e46e.png.
+
+## Refinement prompt
+
+Refine this exact macOS icon asset. Preserve the composition, orange sculpted glass flame, rounded-square aperture and warm porcelain macOS tile. ONLY clean the outside silhouette: remove every stray white speck, ragged cutout pixel, detached fleck and noisy halo outside the tile. Make the continuous rounded-square tile outline precisely smooth with clean antialiasing and genuine full transparency everywhere outside it. No added background or outer shadow. Keep the internal sculpture's lighting and volumetric material unchanged. Output a clean high-resolution square transparent PNG app icon, centered with even margins. No text.
+
+Final generated source: exec-2ee55f8c-5511-446f-9063-5ea354fbe2be.png.
